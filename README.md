@@ -8,7 +8,7 @@
 
 
 [<img src="https://placehold.co/600x150/d62633/fff.webp?text=Support+me+on+Trakteer&font=pt-sans" alt="Support me on Trakteer" width="150">](https://trakteer.id/AdMFirst/tip?open=true)
-[<img src="https://placehold.co/600x150/77cd10/fff.webp?text=Support+me+on+SociaBuzz&font=pt-sans" alt="Support me on SociaBuzz" width="150">](https://sociabuzz.com/admfirst/donate)
+[<img src="https://placehold.co/600x150/77cd10/fff.webp?text=Support+me+on+SociaBuzz&font=pt-sans" alt="Support me on SociaBuzz" width="150">](https://sociabuzz.com/admfirst/tribe)
 
 
 <!---
